@@ -2,8 +2,8 @@
 # Date:
 # Register no.
 # Aim: Development of Python Code Compatible with Multiple AI Tools
-## Name : Dhanalakshmi S
-## Register no: 212222040033
+## Name : Harsayazheni P Y
+## Register no: 212222040052
 ## Aim: 
 Development of Python Code Compatible with Multiple AI Tools
 
