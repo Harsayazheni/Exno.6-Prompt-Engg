@@ -4,12 +4,6 @@
 # Aim 
 Development of Python Code Compatible with Multiple AI Tools
 
-## Algorithm: 
-Write and implement Python code that integrates with multiple AI tools to automate the task of interacting with APIs, comparing outputs, and generating actionable insights.
-
-## Objective:
-Build a Python script that:
-
 # Algorithm: Write and implement Python code that integrates with multiple AI tools to automate the task of interacting with APIs, comparing outputs, and generating actionable insights.
 a. Connects to multiple AI services via APIs.
 
@@ -21,8 +15,6 @@ d. Compares the outputs for quality, tone, performance, or accuracy.
 
 e. Generates reports or logs for further analysis.
 
-# Result
-The corresponding Prompt is executed successfully
 ## Aim
 To help in benchmarking AI tools and determining the best tool for a particular task or use case.
 
