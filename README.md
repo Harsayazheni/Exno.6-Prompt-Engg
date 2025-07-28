@@ -1,8 +1,7 @@
 # Exno.6-Prompt-Engg
-# Aim: Development of Python Code Compatible with Multiple AI Tools
 ## Name : Harsayazheni P Y
 ## Register no: 212222040052
-## Aim: 
+# Aim 
 Development of Python Code Compatible with Multiple AI Tools
 
 ## Algorithm: 
@@ -22,8 +21,10 @@ d. Compares the outputs for quality, tone, performance, or accuracy.
 
 e. Generates reports or logs for further analysis.
 
-# Result: The corresponding Prompt is executed successfully
-This process helps in benchmarking AI tools and determining the best tool for a particular task or use case.
+# Result
+The corresponding Prompt is executed successfully
+## Aim
+To help in benchmarking AI tools and determining the best tool for a particular task or use case.
 
 ## Procedure / Algorithm:
 ### Step 1: Define the Use Case
